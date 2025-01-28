@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* ------------------- Navbar Start ------------------------ */
+
+.navbar {
+    padding: 10px 20px;
+    border-bottom: 3px solid #010055;
+    background-color: #fff;
+}
+.navbar a{
+    color: #4C4C4C;
+}
+
+/* -------------------------- Top Main ----------------------- */
+
+.top-main{
+    padding: 250px 0px;
+    background-color: #4C4C4C;
+    color: #ffffff;
+}
+.top-main h1{
+    font-size: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+.top-main h5{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.shop-now-btn{
+    text-decoration: none;
+    background-color: #fff;
+    color: #000000;
+    padding: 18px 30px;
+    border-radius: 15px;
+    font-weight: 600;
+    position: relative;
+    top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.shop-now-btn:hover{
+    background-color: #00000000;
+    color: #ffffff;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+/* ----------------------------- Scrolling Images ------------------------------ */
+.scroll-container {
+    background-color: #ffffff;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  div.scroll-container div {
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+  }
+  .scroll-img{
+    margin-top: 100px;
+  }
+
+  .scroll-card{
+    background-color: #F4F4F4;
+    padding: 20px;
+    padding-bottom: 0px;
+    border-radius: 15px;
+    height: auto;
+  }
+  .scroll-card img{
+    border-radius: 15px;
+  }
+  /* ------------------------- */
+
+  .shop-now-btn2{
+    text-decoration: none;
+    background-color: hsl(0, 0%, 16%);
+    color: #ffffff;
+    padding: 18px 30px;
+    border-radius: 15px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.point_1{
+    background-color: rgb(255, 255, 255);
+    padding: 6px;
+    border-color: rgb(185, 185, 185);
+    border-radius: 10px;
+}
+.point_2{
+    background-color: rgb(70, 1, 1);
+    padding: 6px;
+    border: none;
+    border-radius: 10px;
+}
+.rate{
+    color: #807e7e;
+}
+.btn_Ad_To_Cart{
+    margin-top: 10px;
+    padding: 12px 23px;
+    font-size: large;
+    
+}
+.new-arrival-bgc{
+    background-color: #F4F4F4;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.bt-border{
+    border-bottom: 1px solid rgb(24, 24, 24);
+    position: relative;
+    bottom: 10px;
+    width: 100px;
+    right: 7px;
+} 
+.First-bg{
+    background: none;
+}
+.offer-limit-box{
+    background-color: #272727;
+}
+
+.shop-now-btn3{
+    text-decoration: none;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    padding: 18px 30px;
+    border-radius: 15px;
+    font-weight: 600;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.trending-design{
+    background-color: #F4F4F4;
+    padding-top: 120px;
+    margin-top: 50px;
+    padding-bottom: 100px;
+
+}
+.elevate{
+    margin-top: 100px;
+}
+
+/* ***************  row  3  **********************/
+.bgcolor_2{
+    background-color: #272727;
+    color: white;
+}
+.bgcolor{
+background-color: #F4F4F4;
+margin-top: 60px;
+}
+.bgcolor_3{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.Learn_more{
+    padding: 15px 25px;
+    font-size: large;  
+    border-radius: 20px;
+    border-color: white; 
+    margin-top: 50px; 
+}
+.scrolling-wrapper{
+    overflow-x: auto;
+    
+}
+.crafted-design{
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+.crafted-txt{
+    font-size: 45px;
+}
+.crafted-txt p{
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+/* ***************  row  6  **********************/
+.bgcolor_3{
+    background-color: #272727;
+    padding: 50px;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 90px;
+    color: white;
+}
+.input_email{
+    background-color: #272727;
+    border-color: white;
+    color: white;
+    width: 250px;
+}
+.btn_s_n{
+    background-color: #fff;
+    color: black;
+    padding: 15px 25px;
+    font-size: large;  
+    border: none;
+}
+.btn_s_n :hover {
+    background-color: black;
+    color: #F4F4F4;
+}
